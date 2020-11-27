@@ -13,7 +13,7 @@
 
 -->
 #### GitHub Stats
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=yetudada&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/yetudada)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=shivam-kotwalia&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/shivam-kotwalia)
 
 
 #### 🔭 I’m currently working on ...
