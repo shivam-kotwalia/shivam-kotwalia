@@ -25,5 +25,5 @@
 #### 💬 Ask me about ...
 - ML/AI
 #### 📫 How to reach me: ...
-- Twitter
-- LinkedIn
+- Twitter(https://twitter.com/ShivamKotwalia)
+- LinkedIn(https://www.linkedin.com/in/shivamkotwalia/)
