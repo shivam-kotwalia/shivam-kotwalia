@@ -11,10 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
 #### GitHub Stats
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=shivam-kotwalia&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/shivam-kotwalia)
 
+-->
 
 #### 🔭 I’m currently working on ...
 - ML/AI
