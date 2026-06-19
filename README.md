@@ -17,13 +17,16 @@
 -->
 
 #### 🔭 I’m currently working on ...
-- ML/AI
-- MLOps
+- GenAI/ Agentic AI
+- LLMOps
+
 #### 🌱 I’m currently learning ...
 - Quantum Computing 
 - Reinforcement Learning 
+
 #### 💬 Ask me about ...
 - ML/AI
+
 #### 📫 How to reach me: ...
 - [Twitter](https://twitter.com/ShivamKotwalia)
 - [LinkedIn](https://www.linkedin.com/in/shivamkotwalia/)
